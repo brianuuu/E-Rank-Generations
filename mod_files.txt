@@ -1,0 +1,4 @@
+add mod.ini
+add ConfigSchema.json
+add ERankGenerations.dll
+add README.txt
