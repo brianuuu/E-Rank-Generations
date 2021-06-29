@@ -1,4 +1,9 @@
-add mod.ini
-add ConfigSchema.json
 add ERankGenerations.dll
+add mod.ini
 add README.txt
+add SonicRankE.ar.00
+add SonicRankE.arl
+delete bb3_Gens.ini
+delete ConfigSchema.json
+delete SonicRankE_Gens.ar.00
+delete SonicRankE_Gens.arl

@@ -1,5 +1,5 @@
 ---------------------------Sonic Generations Mod--------------------------
---------------------------E-Rank Generations v1.0-------------------------
+--------------------------E-Rank Generations v1.1-------------------------
 
 This is a mod for Sonic Generations that replace S-rank with E-rank, including HUD and result animation.
 
@@ -16,3 +16,4 @@ Credits
 brianuuu - Main Developer
 Zoney - Unleashed E-rank Animation
 saguinee - Generations E-rank Animation
+Skyth - Bone data access code
